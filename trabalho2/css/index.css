@@ -1,0 +1,40 @@
+body {
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    width: 60%;
+    margin: 0 auto;
+    padding: 2% 0;
+}
+
+h1 {
+    font-family: Tahoma;
+    color: aqua;
+}
+
+a:hover { color: gray; }
+
+a {
+    color: green;
+}
+
+img {
+    border-radius: 50%;
+    background-color: white;
+}
+
+.main {
+    background-color: white;
+    color: black;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.tabela {
+    border-style: dashed;
+    color: black;
+    background-color: white;
+    border-radius: 10px;
+}

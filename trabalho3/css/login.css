@@ -1,0 +1,19 @@
+.menu {
+    padding: 50px 100px 50px 100px;
+    background-color: gray;
+    width: 10%;
+    display: flex;
+    margin-top: 10%;
+    margin-left: 35%;
+    justify-content: center;
+    border-radius: 5%;
+    box-shadow: 0 0 10px red;
+}
+
+.botao {
+    width: 100px;
+}
+
+input:hover {
+    box-shadow: 0 0 10px red;
+}

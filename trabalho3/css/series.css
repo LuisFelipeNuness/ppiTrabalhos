@@ -1,0 +1,15 @@
+@media (min-width: 1000px){
+    .menu{
+        padding: 10px;
+    }
+
+    .opcao{
+        background-color: gray;
+        border: 10px solid white;
+        justify-content: center;
+    }
+
+    .tdTexto {
+        vertical-align: top;
+    }
+}
